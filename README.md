@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Prashanth Guda</h1>
+<h1 align="center">Hey Everyone 👋, I'm Prashanth Guda</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT sector</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanth-guda&label=Profile%20views&color=0e75b6&style=flat" alt="prashanth-guda" /> </p>
