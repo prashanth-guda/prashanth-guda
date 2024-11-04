@@ -1,18 +1,13 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Prashanth Guda</h1>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT sector</h3>
+<h3 align="center">A passionate Software Engineer From India. I work in Corporate IT sector</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanth-guda&label=Profile%20views&color=0e75b6&style=flat" alt="prashanth-guda" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently working on **K8s Cluster Autoscaler**
 
-- 🌱 I’m currently learning **DevSecOps Engineer**
-
-- 👯 I’m looking to collaborate on **DevOps, Open Source projects**
-
-- 🤝 I’m looking for help **DevOps, Cloud, Open Source, Developer Relations**
-
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 🌱 I’m currently working **software Engineer**
+  
 
 - 📫 How to reach me **prashanthguda12@gmail.com**
 
